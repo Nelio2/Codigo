@@ -2,8 +2,10 @@
 
 > Principais codigos no terminal: Linux
 
+
+
 ````
-sudo apt-get update
+node app.js
 ``````
 
 
